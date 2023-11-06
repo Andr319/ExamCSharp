@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\bin\Debug\net7.0\AnotherTry.exe
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\bin\Debug\net7.0\AnotherTry.deps.json
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\bin\Debug\net7.0\AnotherTry.runtimeconfig.json
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\bin\Debug\net7.0\AnotherTry.dll
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\bin\Debug\net7.0\AnotherTry.pdb
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\bin\Debug\net7.0\Colorful.Console.dll
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.AssemblyInfo.cs
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.csproj.CopyComplete
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.dll
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\refint\AnotherTry.dll
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.pdb
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\AnotherTry.genruntimeconfig.cache
+C:\Users\andre\source\repos\AnotherTry\AnotherTry\obj\Debug\net7.0\ref\AnotherTry.dll
